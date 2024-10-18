@@ -17,19 +17,21 @@ A simple and intuitive To Do application built with Flutter, utilizing Hive for 
   </tr>
   <tr>
     <td>Task List</td>
-    <td><img src="screenshots/Screenshot_20241018_124930.jpg" alt="Task List" width="300" /></td>
-  </tr>
-  <tr>
-    <td>Add Task Screen</td>
     <td><img src="screenshots/Screenshot_20241018_124937.jpg" alt="Add Task" width="300" /></td>
   </tr>
   <tr>
+    <td>Add Task Screen</td>
+    <td><img src="screenshots/Screenshot_20241018_124930.jpg" alt="Task List" width="300" /></td>
+  </tr>
+  <tr>
     <td>Task Deletion</td>
-    <td><img src="screenshots/Screenshot_20241018_124944.jpg" alt="Task Deletion" width="300" /></td>
+    
+    <td><img src="screenshots/Screenshot_20241018_124950.jpg" alt="Completed Tasks" width="300" /></td>
   </tr>
   <tr>
     <td>Completed Tasks</td>
-    <td><img src="screenshots/Screenshot_20241018_124950.jpg" alt="Completed Tasks" width="300" /></td>
+    
+    <td><img src="screenshots/Screenshot_20241018_124944.jpg" alt="Task Deletion" width="300" /></td>
   </tr>
 </table>
 
