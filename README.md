@@ -8,6 +8,21 @@ A simple and intuitive To Do application built with Flutter, utilizing Hive for 
 - **Delete Tasks**: Quickly remove tasks from your list using swipe gestures.
 - **Local Storage**: Store your tasks locally on the device using Hive, ensuring fast and reliable access.
 - **User-Friendly Interface**: A clean and straightforward design for seamless navigation.
+## Screenshots
+
+### Task List
+![Task List](screenshots/Screenshot_20241018_124930.jpg)  <!-- Replace with your actual screenshot path -->
+
+### Add Task Screen
+![Add Task](screenshots/Screenshot_20241018_124937.jpg)  <!-- Replace with your actual screenshot path -->
+
+### Task Deletion
+![Task Deletion](screenshots/Screenshot_20241018_124944.jpg)  <!-- Replace with your actual screenshot path -->
+
+### Completed Tasks
+![Completed Tasks](screenshots/Screenshot_20241018_124950.jpg)  <!-- Replace with your actual screenshot path -->
+
+
 
 ## Getting Started
 
