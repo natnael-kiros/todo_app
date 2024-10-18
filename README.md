@@ -1,16 +1,29 @@
-# recap
+# To Do App
 
-A new Flutter project.
+A simple and intuitive To Do application built with Flutter, utilizing Hive for efficient local storage and the `flutter_slidable` package to enhance user interactions with list items.
+
+## Features
+
+- **Add Tasks**: Easily create new tasks and add them to your To Do list.
+- **Delete Tasks**: Quickly remove tasks from your list using swipe gestures.
+- **Local Storage**: Store your tasks locally on the device using Hive, ensuring fast and reliable access.
+- **User-Friendly Interface**: A clean and straightforward design for seamless navigation.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This section outlines the steps required to set up and run the project on your local machine for development and testing purposes.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Before you begin, ensure you have the following installed:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- A code editor (such as [VS Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio))
+
+### Installation
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/yourusername/todo_app.git
+   cd todo_app
+
